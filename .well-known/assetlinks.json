@@ -1,1 +1,8 @@
-
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.lohnner.twa",
+        "sha256_cert_fingerprints": ["A8:D7:B3:E1:0C:CD:6A:FC:6A:53:A2:24:DF:28:B9:56:CF:B8:02:5B:E4:89:A6:61:8D:95:06:1C:AB:86:C1:0F"]
+      }
+    }]
